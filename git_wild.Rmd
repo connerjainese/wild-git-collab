@@ -20,7 +20,6 @@ library(tidyverse)
 ggplot(data = diamonds, aes(x = carat, y = price))+
   geom_point()
 
-
 ```
 
 ```{r partner 2}
