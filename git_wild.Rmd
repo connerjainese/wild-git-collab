@@ -25,7 +25,8 @@ library(tidyverse)
 ### ggplot2 package) and create a subset based on filtering, e.g., 
 ### size greater than 1 carat or cut is "Ideal"
 
-
+stupid_data <- c(4,2,0)
+hist(stupid_data, main ="blaze it")
 
 ```
 
