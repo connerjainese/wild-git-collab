@@ -37,7 +37,8 @@ hist(stupid_data, main ="blaze it")
 ```{r break-it-1}
 
 str(diamonds)
-hist(diamonds$carat)
+hist(diamonds$carat) 
+
 
 ```
 
